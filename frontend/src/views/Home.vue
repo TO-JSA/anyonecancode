@@ -6,7 +6,7 @@
         <div id="right"></div>
         <div id="top"></div>
         <div id="bottom"></div>
-        <b-navbar-item id="fontnavbar" class="title is-2" style="color: dimgray">
+        <b-navbar-item id="fontnavbar" class="title is-2" style="color: blueviolet">
           T0gram
         </b-navbar-item>
       </template>
